@@ -1,6 +1,6 @@
 
 # Bitcoin Private Key Miner for the Keymaker 3X Pool
-## ( Update! This software will soon be merged with another project for dual, tri and prehaps quad mining.)
+## ( Update! This software will soon be merged with another project for dual and quad mining.)
 
 This software will  attempt to create a bitcoin address collision. If a key is found the key will be reported to the pool. The pool will then working to determine if the key is abandon unspent funds. Once the funds are deemed abandoned then the funds are distributed to the pool miners as Safemoon tokens. 
 
